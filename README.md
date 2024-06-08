@@ -1,8 +1,7 @@
 ## Hello, I'm Michelle! 👋
-I am a CS student at UC Davis, passionate about software and website development.
-- 🔭 | I’m currently experimenting with full stack development
-- ⚡ | I start my day with a ☕, end my day with a 🏃‍♀️
-- 📫 | mwyeoh@ucdavis.edu
+I am a CS student at UC Davis, passionate about software and web development.
+- I’m currently experimenting with full stack development.
+- I like to start my day with a ☕, end my day with a 🏃‍♀️!
 <!--
 **michelleyeoh/michelleyeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
